@@ -1,0 +1,6 @@
+{
+  "name": "MikroMon",
+  "description": "Aplikasi monitoring jaringan MikroTik real-time untuk ISP dan RT/RW Net dengan trafik, PPPoE, multi-router, dan notifikasi Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MikroMon</string>
+    <string name="app_subtitle">Pusat Kontrol MikroTik</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_routers">Router</string>
+    <string name="nav_pppoe">PPPoE</string>
+    <string name="nav_alerts">Notifikasi</string>
+
+    <!-- Dashboard KPIs -->
+    <string name="kpi_total_router">Total Router</string>
+    <string name="kpi_router_online">Router Online</string>
+    <string name="kpi_router_offline">Router Offline</string>
+    <string name="kpi_total_pelanggan">Total Pelanggan</string>
+    <string name="kpi_pelanggan_online">Pelanggan Online</string>
+    <string name="kpi_pelanggan_offline">Pelanggan Offline</string>
+
+    <!-- Actions & Labels -->
+    <string name="action_add_router">Tambah Router</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_test_connection">Tes Koneksi</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_load_demo">Mode Simulasi Lab</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_offline">OFFLINE</string>
+    <string name="status_simulasi">SIMULASI</string>
+
+    <!-- Errors -->
+    <string name="error_host_required">IP Address atau domain router wajib diisi.</string>
+    <string name="error_username_required">Username RouterOS API wajib diisi.</string>
+    <string name="error_port_invalid">Port harus antara 1 sampai 65535.</string>
+</resources>
